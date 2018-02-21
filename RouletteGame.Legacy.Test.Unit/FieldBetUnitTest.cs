@@ -4,6 +4,7 @@ using System.Text;
 
 namespace RouletteGame.Legacy.Test.Unit
 {
+    
     class FieldBetUnitTest
     {
     }

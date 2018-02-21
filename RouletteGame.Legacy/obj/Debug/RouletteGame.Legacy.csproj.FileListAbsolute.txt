@@ -1,0 +1,6 @@
+C:\Users\AnneKastrup\Source\Repos\Roulette\RouletteGame.Legacy\bin\Debug\RouletteGame.Legacy.exe.config
+C:\Users\AnneKastrup\Source\Repos\Roulette\RouletteGame.Legacy\bin\Debug\RouletteGame.Legacy.exe
+C:\Users\AnneKastrup\Source\Repos\Roulette\RouletteGame.Legacy\bin\Debug\RouletteGame.Legacy.pdb
+C:\Users\AnneKastrup\Source\Repos\Roulette\RouletteGame.Legacy\obj\Debug\RouletteGame.Legacy.csproj.CoreCompileInputs.cache
+C:\Users\AnneKastrup\Source\Repos\Roulette\RouletteGame.Legacy\obj\Debug\RouletteGame.Legacy.exe
+C:\Users\AnneKastrup\Source\Repos\Roulette\RouletteGame.Legacy\obj\Debug\RouletteGame.Legacy.pdb
