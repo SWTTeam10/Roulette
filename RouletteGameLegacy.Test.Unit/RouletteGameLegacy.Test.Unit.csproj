@@ -49,7 +49,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="ColorBetUnitTest.cs" />
     <Compile Include="EvenOddBetUnitTest.cs" />
     <Compile Include="FieldBetUnitTest.cs" />
