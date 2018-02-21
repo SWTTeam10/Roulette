@@ -12,7 +12,7 @@ namespace RouletteGame.Legacy
         {
             _fields = new List<IField>
             {
-                new IField(0, Field.Green),
+                new Field(0, Field.Green),
                 new Field(1, Field.Red),
                 new Field(2, Field.Black),
                 new Field(3, Field.Red),
@@ -56,11 +56,11 @@ namespace RouletteGame.Legacy
 
         public void Spin()
         {
-            var n = (uint) new Random().Next(0, 37);
-            _result = _fields[(int) n];
+            var n = (uint)new Random().Next(0, 37);
+            _result = _fields[(int)n];
         }
 
-        public Field GetResult()
+        public IField GetResult()
         {
             return _result;
         }

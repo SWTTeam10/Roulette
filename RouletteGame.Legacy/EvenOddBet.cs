@@ -9,7 +9,7 @@
             _even = even;
         }
 
-        public override uint WonAmount(Field field)
+        public override uint WonAmount(IField field)
         {
             if (field.Even == _even) return 2*Amount;
             return 0;

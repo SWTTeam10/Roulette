@@ -5,6 +5,6 @@
         uint Amount { get; }
         string PlayerName { get; }
 
-        uint WonAmount(Field field);
+        uint WonAmount(IField field);
     }
 }

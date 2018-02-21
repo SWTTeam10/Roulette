@@ -2,7 +2,7 @@
 {
     public interface IRoulette
     {
-        Field GetResult();
+        IField GetResult();
         void Spin();
     }
 }

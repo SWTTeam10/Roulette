@@ -9,7 +9,7 @@
             _fieldNumber = fieldNumber;
         }
 
-        public override uint WonAmount(Field field)
+        public override uint WonAmount(IField field)
         {
             if (field.Number == _fieldNumber) return 36*Amount;
             return 0;

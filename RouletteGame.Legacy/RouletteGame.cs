@@ -5,13 +5,13 @@ namespace RouletteGame.Legacy
 {
     public class RouletteGame
     {
-        private readonly List<Bet> _bets;
-        private readonly Roulette _roulette;
+        private readonly List<IBet> _bets;
+        private readonly IRoulette _roulette;
         private bool _roundIsOpen;
 
-        public RouletteGame(Roulette roulette)
+        public RouletteGame(IRoulette roulette, List<IBet> bets)
         {
-            _bets = new List<Bet>();
+            _bets = bets; 
             _roulette = roulette;
         }
 
@@ -27,7 +27,7 @@ namespace RouletteGame.Legacy
             _roundIsOpen = false;
         }
 
-        public void PlaceBet(Bet bet)
+        public void PlaceBet(IBet bet)
         {
             if (_roundIsOpen) _bets.Add(bet);
             else throw new RouletteGameException("Bet placed while round closed");

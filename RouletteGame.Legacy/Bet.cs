@@ -12,7 +12,7 @@
         public string PlayerName { get; }
         public uint Amount { get; }
 
-        public virtual uint WonAmount(Field field)
+        public virtual uint WonAmount(IField field)
         {
             return 0;
         }
