@@ -3,16 +3,16 @@ using System.Collections.Generic;
 
 namespace RouletteGame.Legacy
 {
-    public class Roulette
+    public class Roulette : IRoulette
     {
-        private readonly List<Field> _fields;
-        private Field _result;
+        private readonly List<IField> _fields;
+        private IField _result;
 
         public Roulette()
         {
-            _fields = new List<Field>
+            _fields = new List<IField>
             {
-                new Field(0, Field.Green),
+                new IField(0, Field.Green),
                 new Field(1, Field.Red),
                 new Field(2, Field.Black),
                 new Field(3, Field.Red),
