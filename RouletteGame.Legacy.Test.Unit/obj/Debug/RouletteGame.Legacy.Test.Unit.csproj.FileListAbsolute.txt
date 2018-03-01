@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\AU\4. semester\SWT\Øvelser\4.1 Test Types and Fakes\Roulette\RouletteGame.Legacy.Test.Unit\obj\Debug\RouletteGame.Legacy.Test.Unit.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\AU\4. semester\SWT\Øvelser\4.1 Test Types and Fakes\Roulette\RouletteGame.Legacy.Test.Unit\obj\Debug\RouletteGame.Legacy.Test.Unit.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\AU\4. semester\SWT\Øvelser\4.1 Test Types and Fakes\Roulette\RouletteGame.Legacy.Test.Unit\bin\Debug\RouletteGame.Legacy.Test.Unit.dll
+\\Mac\Home\Documents\AU\4. semester\SWT\Øvelser\4.1 Test Types and Fakes\Roulette\RouletteGame.Legacy.Test.Unit\bin\Debug\RouletteGame.Legacy.Test.Unit.pdb
+\\Mac\Home\Documents\AU\4. semester\SWT\Øvelser\4.1 Test Types and Fakes\Roulette\RouletteGame.Legacy.Test.Unit\bin\Debug\NSubstitute.dll
+\\Mac\Home\Documents\AU\4. semester\SWT\Øvelser\4.1 Test Types and Fakes\Roulette\RouletteGame.Legacy.Test.Unit\bin\Debug\NSubstituteAutoMocker.dll
+\\Mac\Home\Documents\AU\4. semester\SWT\Øvelser\4.1 Test Types and Fakes\Roulette\RouletteGame.Legacy.Test.Unit\bin\Debug\nunit.framework.dll
+\\Mac\Home\Documents\AU\4. semester\SWT\Øvelser\4.1 Test Types and Fakes\Roulette\RouletteGame.Legacy.Test.Unit\bin\Debug\RouletteGame.Legacy.exe
+\\Mac\Home\Documents\AU\4. semester\SWT\Øvelser\4.1 Test Types and Fakes\Roulette\RouletteGame.Legacy.Test.Unit\bin\Debug\RouletteGame.Legacy.pdb
+\\Mac\Home\Documents\AU\4. semester\SWT\Øvelser\4.1 Test Types and Fakes\Roulette\RouletteGame.Legacy.Test.Unit\bin\Debug\RouletteGame.Legacy.exe.config
+\\Mac\Home\Documents\AU\4. semester\SWT\Øvelser\4.1 Test Types and Fakes\Roulette\RouletteGame.Legacy.Test.Unit\bin\Debug\NSubstitute.xml
+\\Mac\Home\Documents\AU\4. semester\SWT\Øvelser\4.1 Test Types and Fakes\Roulette\RouletteGame.Legacy.Test.Unit\bin\Debug\nunit.framework.xml
+\\Mac\Home\Documents\AU\4. semester\SWT\Øvelser\4.1 Test Types and Fakes\Roulette\RouletteGame.Legacy.Test.Unit\obj\Debug\RouletteGame.Legacy.Test.Unit.dll
+\\Mac\Home\Documents\AU\4. semester\SWT\Øvelser\4.1 Test Types and Fakes\Roulette\RouletteGame.Legacy.Test.Unit\obj\Debug\RouletteGame.Legacy.Test.Unit.pdb
