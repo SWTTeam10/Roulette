@@ -7,7 +7,8 @@ C:\Users\AnneKastrup\Source\Repos\Roulette\RouletteGame.Legacy\obj\Debug\Roulett
 \\Mac\Home\Documents\AU\4. semester\SWT\Øvelser\4.1 Test Types and Fakes\Roulette\RouletteGame.Legacy\bin\Debug\RouletteGame.Legacy.exe.config
 \\Mac\Home\Documents\AU\4. semester\SWT\Øvelser\4.1 Test Types and Fakes\Roulette\RouletteGame.Legacy\bin\Debug\RouletteGame.Legacy.exe
 \\Mac\Home\Documents\AU\4. semester\SWT\Øvelser\4.1 Test Types and Fakes\Roulette\RouletteGame.Legacy\bin\Debug\RouletteGame.Legacy.pdb
-\\Mac\Home\Documents\AU\4. semester\SWT\Øvelser\4.1 Test Types and Fakes\Roulette\RouletteGame.Legacy\obj\Debug\RouletteGame.Legacy.csprojResolveAssemblyReference.cache
 \\Mac\Home\Documents\AU\4. semester\SWT\Øvelser\4.1 Test Types and Fakes\Roulette\RouletteGame.Legacy\obj\Debug\RouletteGame.Legacy.csproj.CoreCompileInputs.cache
 \\Mac\Home\Documents\AU\4. semester\SWT\Øvelser\4.1 Test Types and Fakes\Roulette\RouletteGame.Legacy\obj\Debug\RouletteGame.Legacy.exe
 \\Mac\Home\Documents\AU\4. semester\SWT\Øvelser\4.1 Test Types and Fakes\Roulette\RouletteGame.Legacy\obj\Debug\RouletteGame.Legacy.pdb
+\\Mac\Home\Documents\AU\4. semester\SWT\Øvelser\4.1 Test Types and Fakes\Roulette\RouletteGame.Legacy\bin\Debug\RouletteGame.Legacy.exe.CodeAnalysisLog.xml
+\\Mac\Home\Documents\AU\4. semester\SWT\Øvelser\4.1 Test Types and Fakes\Roulette\RouletteGame.Legacy\bin\Debug\RouletteGame.Legacy.exe.lastcodeanalysissucceeded
